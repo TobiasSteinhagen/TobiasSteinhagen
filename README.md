@@ -11,10 +11,10 @@ After that, my next logic step, regarding my interests and my experiences in dif
 
 To get my head clear from all the new knowledge and experiences 🤯, I found for my self the following hobbies:
 
-- Crossfit
-- Cooking
+- Crossfit 🏋️
+- Cooking 🍳
 - Yoga (just for myself, nothing fancy 🧘)
-- Hiking
+- Hiking 🥾
 
 I'm really looking forward to this new chapter of my life and, besides the coding, meeting great people with positiv energy from whom I can still learn something.
 
