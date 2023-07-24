@@ -4,16 +4,16 @@
 
 ## About me and my carrer
 
-My name is Tobias (aka Tobi) and after a few years of working in different e-commerce companies.
-The role I have filled in these companies always had something to do with procut data and content management.
+My name is Tobias (aka Tobi) and after a few years of working in different e-commerce companies in the departement of product data manegment, it was time for a change in my life and carrer.
+I always liked the whole communication part during the phase of a project, no matter how big or small the project was and the role as a user and client.
 
-One of my biggest projects was to integrate a new software (Akeneo PIM) for the product data management team (wich was my team) together with internal (project management, IT, etc.) and external steakholdern.
+But I was always missing the knowledge of software developement and that was something, that botherd me.
 
-Due to my interest and my experiences, working with software developers and to have some friends working in this area, I found "neue Fische" and the [web developer bootcamp](https://www.neuefische.de/bootcamp/web-development).
+Due to that, my interests and my experiences, working with software developers and to have some friends working in this area, I found "neue Fische" and the [web developer bootcamp](https://www.neuefische.de/bootcamp/web-development) bootcamp.
 
 I started my new adventure in july 2023 and I'm realy hyped for this new part of my life ✨
 
-![Going on an adventure](https://media3.giphy.com/media/VGG8UY1nEl66Y/giphy.gif?cid=ecf05e477mfn91q4kqzduh1oy2lqf6evvevdgt0hygwey1dm&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Going on an adventure](https://media1.giphy.com/media/xT1XGGwZo05NueiuC4/giphy.gif?cid=ecf05e47cgihs44qw255tbbtnqmermp0m71ewupmnus1cxmk&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
