@@ -1,4 +1,4 @@
-# Hey there, welcome to my page ✌️
+Hey there, welcome to my page ✌️
 
 ---
 
@@ -9,7 +9,7 @@ The role I have filled in these companies always had something to do with procut
 
 One of my biggest projects was to integrate a new software (a PIM system) together with internal and external steakholdern.
 
-After that, my next logic step, regarding my interests and my experiences in different projects and teams, led me to "neue Fische" and the Web-Dev Bootcamp.
+After that, my next logic step, regarding my interests and my experiences in different projects and teams, led me to "neue Fische" and the [Web-Dev Bootcamp](https://www.neuefische.de/bootcamp/web-development).
 
 ![Going on an adventure](https://media3.giphy.com/media/VGG8UY1nEl66Y/giphy.gif?cid=ecf05e477mfn91q4kqzduh1oy2lqf6evvevdgt0hygwey1dm&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
@@ -33,5 +33,3 @@ I'm really looking forward to this new chapter of my life and, besides the codin
 Thank you for your time to get me known a little bit better!
 
 Tobi ✌️
-
-
