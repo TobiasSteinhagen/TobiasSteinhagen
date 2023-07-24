@@ -8,3 +8,10 @@ One of my biggest prjects was to integrate a new software (a PIM system) togethe
 After that, my next logic step, regarding my interests and my experiences in different projects and teams, led me to "neue Fische" and the Web-Dev Bootcamp.
 
 ![Going on an adventure](https://media3.giphy.com/media/VGG8UY1nEl66Y/giphy.gif?cid=ecf05e477mfn91q4kqzduh1oy2lqf6evvevdgt0hygwey1dm&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+
+To get my head clear from all the new knowledge and experiences 🤯, I found for my self the following hobbies:
+
+- Crossfit
+- Cooking
+- Yoga (just for myself, nothing fancy 🧘)
+- Hiking
