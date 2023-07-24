@@ -1,5 +1,7 @@
 # Hey there, welcome to my page ✌️
 
+## About me and my carrer
+
 My name is Tobias (aka Tobi) and after a few years of working in different e-commerce companies, my way led me to web development.
 The role I have filled in these companies always had something to do with procut data and content management.
 
@@ -11,6 +13,8 @@ After that, my next logic step, regarding my interests and my experiences in dif
 
 ---
 
+## My hobbies
+
 To get my head clear from all the new knowledge and experiences 🤯, I found for my self the following hobbies:
 
 - Crossfit 🏋️
@@ -20,12 +24,12 @@ To get my head clear from all the new knowledge and experiences 🤯, I found fo
 
 ---
 
+## A few lasts words
+
 I'm really looking forward to this new chapter of my life and, besides the coding, meeting great people with positiv energy from whom I can still learn something.
 
 Thank you for your time to get me known a little bit better!
 
 Tobi ✌️
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=TobiasSteinhagen)](https://git.io/streak-stats)
 
 
