@@ -9,6 +9,8 @@ After that, my next logic step, regarding my interests and my experiences in dif
 
 ![Going on an adventure](https://media3.giphy.com/media/VGG8UY1nEl66Y/giphy.gif?cid=ecf05e477mfn91q4kqzduh1oy2lqf6evvevdgt0hygwey1dm&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
+---
+
 To get my head clear from all the new knowledge and experiences 🤯, I found for my self the following hobbies:
 
 - Crossfit 🏋️
@@ -16,8 +18,14 @@ To get my head clear from all the new knowledge and experiences 🤯, I found fo
 - Yoga (just for myself, nothing fancy 🧘)
 - Hiking 🥾
 
+---
+
 I'm really looking forward to this new chapter of my life and, besides the coding, meeting great people with positiv energy from whom I can still learn something.
 
 Thank you for your time to get me known a little bit better!
 
 Tobi ✌️
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=TobiasSteinhagen)](https://git.io/streak-stats)
+
+
