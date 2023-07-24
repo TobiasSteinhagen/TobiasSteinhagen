@@ -1,5 +1,7 @@
 # Hey there, welcome to my page ✌️
 
+---
+
 ## About me and my carrer
 
 My name is Tobias (aka Tobi) and after a few years of working in different e-commerce companies, my way led me to web development.
