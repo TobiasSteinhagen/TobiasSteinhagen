@@ -18,6 +18,6 @@ To get my head clear from all the new knowledge and experiences 🤯, I found fo
 
 I'm really looking forward to this new chapter of my life and, besides the coding, meeting great people with positiv energy from whom I can still learn something.
 
-Thank you for the time!
+Thank you for your time to get me known a little bit better!
 
 Tobi ✌️
