@@ -33,3 +33,5 @@ I'm really looking forward to this new chapter of my life and, besides the codin
 Thank you for your time to get me known a little bit better!
 
 Tobi ✌️
+
+![Visitor Count](https://profile-counter.glitch.me/{TobiasSteinhagen}/count.svg)
