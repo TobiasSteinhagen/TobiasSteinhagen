@@ -11,7 +11,8 @@ But I was always missing the knowledge of software developement and that was som
 
 Due to that, my interests and my experiences, working with software developers and to have some friends working in this area, I found "neue Fische" and the [web developer bootcamp](https://www.neuefische.de/bootcamp/web-development) bootcamp.
 
-I started my new adventure in july 2023 and I'm realy hyped for this new part of my life ✨
+I started my new adventure in july 2023 and finished it in october 2023..
+I'm realy hyped for this new part of my life and to become a experienced web developer ✨
 
 ![Going on an adventure](https://media1.giphy.com/media/xT1XGGwZo05NueiuC4/giphy.gif?cid=ecf05e47cgihs44qw255tbbtnqmermp0m71ewupmnus1cxmk&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
@@ -23,7 +24,7 @@ To get my head clear from all the new knowledge and experiences 🤯, I found fo
 
 - Crossfit 🏋️
 - Cooking 🍳
-- Yoga (just for myself, nothing fancy 🧘)
+- Yoga 🧘
 - Hiking 🥾
 
 ---
