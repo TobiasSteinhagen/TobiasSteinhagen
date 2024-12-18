@@ -7,7 +7,7 @@ After completing my neuefische bootcamp, I am constantly improving my skills wit
 Currently working on:
 
 The Complete 2024 Web Development Bootcamp by Dr. Angela Yu on udemy
-Exercism JavaScript
+JacaScript Challenges in Exercism
 
 ---
 
