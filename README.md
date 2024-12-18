@@ -2,6 +2,15 @@
 
 ---
 
+After completing my neuefische bootcamp, I am constantly improving my skills with online resources.
+
+Currently working on:
+
+The Complete 2024 Web Development Bootcamp by Dr. Angela Yu on udemy
+Exercism JavaScript
+
+---
+
 ## About me and my carrer
 
 My name is Tobias (aka Tobi) and after a few years of working in different e-commerce companies in the departement of product data manegment, it was time for a change in my life and carrer.
